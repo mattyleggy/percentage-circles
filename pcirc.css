@@ -1,0 +1,5 @@
+.pcirc-display { position: absolute; font-size: 16px; color: #555; display: inline-block; top: 50%; left: 50%; text-align: center; }
+.pcirc-circle { position: absolute; text-align: center; border-radius: 100%; background: #eee; display: inline-block; top: 50%; left: 50%; }
+.pcirc-border { position: relative; text-align: center; border-radius: 100%; vertical-align: middle;  }
+.pcirc-label { text-align: center; width: 100%; margin-top: 3px; }
+.pcirc-wrap{ display: inline-block; }
